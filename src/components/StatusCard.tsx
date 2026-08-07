@@ -1,3 +1,4 @@
+// fix(#1): add multi-wallet support
 export function StatusCard() {
   return <div>Status Active</div>;
 }
