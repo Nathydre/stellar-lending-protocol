@@ -1,3 +1,5 @@
+
+<!-- fix(#2): missing zero-check before external transfer -->
 # Update
 
 Generated: 2026-07-25 20:01:39.842772
